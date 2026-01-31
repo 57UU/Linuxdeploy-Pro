@@ -294,6 +294,7 @@
         <item>buster</item>
         <item>bullseye</item>
         <item>bookworm</item>
+        <item>trixie</item>
     </string-array>
     <string-array name="debian_arch_values" translatable="false">
         <item>armel</item>

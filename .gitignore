@@ -45,3 +45,6 @@ captures/
 # Windows clutter
 Thumbs.db
 *.bak
+
+# vscode
+.vscode/
